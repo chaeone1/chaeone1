@@ -1,6 +1,6 @@
 <div align="center">
   <h1>김채원</h1>
-  <p></p>
+  <p>세상을 더 나답게 만드는 개발자</p>
   
   [![Email](https://img.shields.io/badge/Email-chae_one1@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:chae_one1@naver.com)
   [![Blog](https://img.shields.io/badge/Blog-https://blog.naver.com/chae_one1-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://blog.naver.com/chae_one1)
