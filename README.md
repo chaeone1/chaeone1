@@ -32,7 +32,7 @@
 ## 🚀 프로젝트
 ### 스매싱 (Smashing)
 > 온오프라인 스터디 매칭 서비스  
-> [GitHub Repository](추후 업로드 예정)
+> [GitHub Repository](https://github.com/chaeone1/SMASHING)
 
 ### 새로고침 (Refresh)
 > 환경 보호와 자원 재활용을 중심으로 설계된 종합 플랫폼  
