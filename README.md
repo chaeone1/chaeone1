@@ -4,7 +4,7 @@
   
   [![Email](https://img.shields.io/badge/Email-chae_one1@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:chae_one1@naver.com)
   [![Blog](https://img.shields.io/badge/Blog-https://blog.naver.com/chae_one1-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://blog.naver.com/chae_one1)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeone1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.sh/github.com/chaeone1.svg)](https://hits.sh/github.com/chaeone1/)
 </div>
 
 ## 🎓 학력
