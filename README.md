@@ -3,7 +3,7 @@
   <p>세상을 더 나답게 만드는 개발자</p>
   
   [![Email](https://img.shields.io/badge/Email-chae_one1@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:chae_one1@naver.com)
-  [![Blog](https://img.shields.io/badge/Blog-https://blog.naver.com/chae_one1-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://blog.naver.com/chae_one1)
+  [![Blog](https://img.shields.io/badge/Blog-https://velog.io/@chaeone1/posts-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://velog.io/@chaeone1/posts)
   [![Hits](https://hits.sh/github.com/chaeone1.svg)](https://hits.sh/github.com/chaeone1/)
 </div>
 
