@@ -93,19 +93,6 @@
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chaeone1&show_icons=true&theme=default&hide_border=true" height="165" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeone1&layout=compact&theme=default&hide_border=true" height="165" />
-
-</div>
-
----
 
 ## 🚀 Projects
 
@@ -128,6 +115,16 @@
 
 - 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발  
 - 폐기물 인식·수거, 리사이클링·업사이클링 제품 판매, 수거기사 앱 제공  
+
+---
+
+### 🧠 조각조각 (ZogakZogak)
+> 치매·인지저하 어르신을 위한 기억 보조 & 가족 지원 서비스  
+🔗 [GitHub Repository](https://github.com/Mingjaam/ZogakZogakTeam)
+
+- 추억 기록, 추억 지도, 인물 인식, 감정 분석 등 AI 기반 기능 제공  
+- 가족 구성원이 함께 참여하는 기억 보조 플랫폼  
+- 약 복용 알림, 위치 확인, 긴급 전화 등 보호 기능 포함  
 
 ---
 
