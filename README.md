@@ -2,7 +2,6 @@
 
 <div align="center">
   <h1> 김채원 | CHAEONE </h1>
-  <h3>“세상을 더 나답게 만드는 개발자”</h3>
   
   <a href="mailto:chae_one1@naver.com">
     <img src="https://img.shields.io/badge/Email-chae_one1@naver.com-007396?style=flat&logo=gmail&logoColor=white"/>
