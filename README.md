@@ -114,7 +114,7 @@
 
 > 환경 보호와 자원 재활용을 중심으로 설계된 종합 ESG 플랫폼  
 
-🔗 [GitHub Repository](https://github.com/TEAM-CP6Q)
+🔗 [GitHub Repository](https://github.com/codinggadingga/Reload_F5)
 
 - 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발  
 - 폐기물 인식·수거, 리사이클링·업사이클링 제품 판매, 수거기사 앱 제공  
